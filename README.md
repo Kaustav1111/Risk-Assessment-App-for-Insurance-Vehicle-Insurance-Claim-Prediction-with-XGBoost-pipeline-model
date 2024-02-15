@@ -19,14 +19,17 @@ Data Cleaning: Handling missing values, converting data types, and removing unne
 Feature Engineering: Creating new features like total number of kids and adjusting years of joining.
 
 ### ML Pipeline:
+![Pipeline](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/Pipeline.png)
 
-Encoding: Converting categorical variables into numerical format using one-hot encoding and ordinal encoding.
+1) Encoding: Converting categorical variables into numerical format using one-hot encoding and ordinal encoding.
 
-Scaling: Scaling numerical features to ensure they have the same influence on the model.
+2) Scaling: Scaling numerical features to ensure they have the same influence on the model.
 
-Imbalanced Data Handling: SMOTE (Synthetic Minority Over-sampling Technique) is used to address class imbalance by oversampling the minority class (claim filed) to balance the dataset.
+3) Imbalanced Data Handling: SMOTE (Synthetic Minority Over-sampling Technique) is used to address class imbalance by oversampling the 
+   minority class (claim filed) to balance the dataset.
 
-Model Selection and Tuning: XGBoost (Extreme Gradient Boosting) classifier is chosen for its ability to handle complex datasets and provide high predictive accuracy.
+4) Model Selection and Tuning: XGBoost (Extreme Gradient Boosting) classifier is chosen for its ability to handle complex datasets and 
+   provide high predictive accuracy.
 
 
 
