@@ -46,8 +46,8 @@ Hyperparameter tuning is performed using GridSearchCV to optimize the model's pe
 ##### Post-Tuning Classification Report:
 ![post tuning classification report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/post%20tuning%20classification%20report.png) ![post tuning auc train test](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/post%20tuning%20auc%20train%20test.png)
    
-2) Cross-validation techniques are employed to ensure the model's generalization ability.
-![
+2) Stratified Cross-validation technique is employed to ensure the model's generalization ability.
+![pre tuning cross validation score](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/pre%20tuning%20cross%20validation%20score.png)
 
 ### Deployment:
 
