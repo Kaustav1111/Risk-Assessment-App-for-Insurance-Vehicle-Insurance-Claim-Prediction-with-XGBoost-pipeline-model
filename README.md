@@ -39,9 +39,12 @@ Hyperparameter tuning is performed using GridSearchCV to optimize the model's pe
 
 ### Evaluation: 
 1) Model performance is evaluated using metrics such as ROC AUC score, confusion matrix, and classification report.
-![Pretuning Classification_report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/Pretuning%20Classification_report.png)![post tuning classification report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/post%20tuning%20classification%20report.png)
+   #### Pre-Tuning Classification Report:
+![Pretuning Classification_report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/Pretuning%20Classification_report.png)
+   #### Post-Tuning Classification Report:
+![post tuning classification report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/post%20tuning%20classification%20report.png)
    
-2) Cross-validation techniques are employed to ensure the model's generalization ability.
+3) Cross-validation techniques are employed to ensure the model's generalization ability.
 
 ### Deployment:
 
