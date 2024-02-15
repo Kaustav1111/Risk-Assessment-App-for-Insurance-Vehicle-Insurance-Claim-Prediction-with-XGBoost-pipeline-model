@@ -39,12 +39,15 @@ Hyperparameter tuning is performed using GridSearchCV to optimize the model's pe
 
 ### Evaluation: 
 1) Model performance is evaluated using metrics such as ROC AUC score, confusion matrix, and classification report.
-   #### Pre-Tuning Classification Report:
-![Pretuning Classification_report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/Pretuning%20Classification_report.png)
-   #### Post-Tuning Classification Report:
-![post tuning classification report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/post%20tuning%20classification%20report.png)
+
+##### Pre-Tuning Classification Report:
+![Pretuning Classification_report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/Pretuning%20Classification_report.png) ![Pretraining AUC train test](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/Pretraining%20AUC%20train%20test.png)
+
+##### Post-Tuning Classification Report:
+![post tuning classification report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/post%20tuning%20classification%20report.png) ![post tuning auc train test](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/post%20tuning%20auc%20train%20test.png)
    
-3) Cross-validation techniques are employed to ensure the model's generalization ability.
+2) Cross-validation techniques are employed to ensure the model's generalization ability.
+![
 
 ### Deployment:
 
