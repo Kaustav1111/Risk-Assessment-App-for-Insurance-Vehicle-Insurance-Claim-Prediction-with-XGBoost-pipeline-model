@@ -35,9 +35,12 @@ Feature Engineering: Creating new features like total number of kids and adjusti
 
 ### Hyperparameter :
 Hyperparameter tuning is performed using GridSearchCV to optimize the model's performance.
+![grid search result](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/grid%20search%20result.png)
 
 ### Evaluation: 
 1) Model performance is evaluated using metrics such as ROC AUC score, confusion matrix, and classification report.
+![Pretuning Classification_report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/Pretuning%20Classification_report.png)![post tuning classification report](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/blob/main/Images/post%20tuning%20classification%20report.png)
+   
 2) Cross-validation techniques are employed to ensure the model's generalization ability.
 
 ### Deployment:
