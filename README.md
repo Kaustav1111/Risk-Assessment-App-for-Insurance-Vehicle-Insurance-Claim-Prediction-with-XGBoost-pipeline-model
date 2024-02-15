@@ -57,7 +57,7 @@ Hyperparameter tuning is performed using GridSearchCV to optimize the model's pe
 
 ### Deployment:
 
-The final trained model is deployed using Gradio, allowing users to input their demographic and vehicle information and receive a prediction on whether they are likely to file an insurance claim.
+The final trained model is deployed using Gradio, allowing Insurer to input customer demographic and vehicle information and receive a prediction on whether they are likely to file an insurance claim.
 ![gradio app](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/assets/109284830/c51872f4-ddf6-4d96-b3c8-f20257b88595)
 
 
