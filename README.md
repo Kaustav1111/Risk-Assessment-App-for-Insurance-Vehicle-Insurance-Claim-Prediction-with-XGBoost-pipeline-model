@@ -1,6 +1,8 @@
 ## Project Description:
 
 ### Title: Predicting Insurance Claim Probability for Customers Using XGBOOST Classifier integrated into a Machine Learning Pipeline
+![gradio app](https://github.com/Kaustav1111/Risk-Assessment-App-for-Vehicle-Insurance-Claim-Prediction-with-XGBoost-Classifier-pipeline-model/assets/109284830/c51872f4-ddf6-4d96-b3c8-f20257b88595)
+
 
 ## Overview:
 The goal of this project is to develop a machine learning model that predicts the probability of an insurance claim being filed by a customer based on various demographic and vehicle-related features. By accurately predicting claim probabilities, insurance companies can better assess risk and make informed decisions about policy pricing and coverage.
